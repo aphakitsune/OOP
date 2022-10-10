@@ -1,7 +1,8 @@
 // struct.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-// compile files
-// /bin/bash
+// Compile files:
+// /usr/bin/zsh
+//
 // $ g++ -c functions.cpp main.cpp
 // $ g++ -o main.exe main.o functions.o
 
