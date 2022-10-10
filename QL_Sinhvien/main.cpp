@@ -1,4 +1,4 @@
-// struct.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// main.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 // Compile files:
 // /usr/bin/zsh
