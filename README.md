@@ -1,7 +1,7 @@
 # OOP
 Học phần Lập trình Hướng đối tượng
 
-Thanks to:
-- Thay Nhan
-- Ban Dang Khoa
-- Ban Huu Vinh
+Special thanks to:
+- Thầy Trọng Nhân
+- Bạn Đăng Khoa
+- Bạn Hữu Vĩnh
